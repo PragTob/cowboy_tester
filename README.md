@@ -1,6 +1,6 @@
 # CowboyTester
 
-Minimal app to demonstrate the behavior of cowboy killing processes off mid execution.
+Minimal phoenix app to demonstrate the behavior of cowboy killing processes off mid execution.
 
 ## Running it
 
